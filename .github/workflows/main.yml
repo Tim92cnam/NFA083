@@ -12,6 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: files.000webhost.com
-        username: cnamwebhost
-        password: iCwpRiCu7(Pxzz((Ent*
+        username: CnamNFA083
+        password: bJi!zZ&Qn2xP$%nJCoFb
         server-dir : public_html/
